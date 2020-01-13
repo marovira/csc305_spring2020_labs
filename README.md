@@ -1,2 +1,4 @@
-# csc305_spring2020_labs
-Lab code for CSc 305
+# Csc 305 - Spring 2020 Labs
+
+In this site you will find all of the lab materials. You may re-use any code
+contained here for your assignments.
